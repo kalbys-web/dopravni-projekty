@@ -1,2 +1,2 @@
-# Dopravní projekty – statický web
+# Dopravní projekty – web
 
